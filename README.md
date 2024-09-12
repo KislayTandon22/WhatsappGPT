@@ -7,7 +7,7 @@ This is the code.
 1. This bot only works when you are locally hosting it. Case you want to host it 24*7, you need to upload it to a web server like AWS, which I don't feel comfortable putting my debit card details
 2. as there is only limited time access to these APIs so, in the end, you may need to pay to use them forever
 3. you need to install a lot of stuff. Trust me
-4. there is a type error. I don't know why it is coming even when I am returning a string
+4. It Might not work now because of the updated Code with the latest Python advancement.
    
 **Procedure to use it:**
 1. use pip to install Twilio, requests, python-ngrok, request, python-dotenv, openAI
